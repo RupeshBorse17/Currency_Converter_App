@@ -25,10 +25,4 @@ A simple and responsive web app to convert currencies in real-time using HTML, C
 
 
 
----
-
-## 👤 Author
-
-**Rupesh Borse**  
-🔗 [GitHub](https://github.com/RupeshBorse17) • [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
