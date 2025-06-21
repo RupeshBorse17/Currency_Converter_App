@@ -5,7 +5,10 @@ A simple and responsive web app to convert currencies in real-time using HTML, C
 
 
 ## 🚀 Live Demo  
-🔗 [View App](https://rupeshborse17.github.io/Currency_Converter_app/)
+🔗   
+site is live at https://rupeshborse17.github.io/Currency_Converter_App/
+
+
 
 
 ## 🔧 Tech Stack
@@ -19,8 +22,6 @@ A simple and responsive web app to convert currencies in real-time using HTML, C
 - Real-time currency conversion  
 - Clean & responsive UI  
 - Error handling for user input
-
-
 
 
 
